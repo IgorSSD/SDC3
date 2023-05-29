@@ -1,7 +1,7 @@
 # Мое портфолио
 
-[imagine](https://github.com/IgorSSD/SDC3/assets/134362628/43f8874b-a273-4240-918e-2d351c429e32)
-)
+![imagine](https://github.com/IgorSSD/SDC3/assets/134362628/14e9f354-71f5-4e4e-b154-f1e0bb667ef8)
+
 
 ## Обо мне
 
